@@ -1,3 +1,13 @@
 div{
     border: 1px dotted red;
 }
+body{
+    background-color: green;
+    text-align: center;
+    font-size: 15px;
+    margin: 20px;
+    color:black;
+}
+#akanNames{
+    display: flex;
+}
