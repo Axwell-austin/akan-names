@@ -13,3 +13,7 @@ body{
     padding: 10px;
     justify-content: center;
 }
+P{
+    font-style: italic;
+    font-weight: 600;
+}
