@@ -10,3 +10,5 @@ var Calculator = function() {
           );
           var gender = document.getElementById("Form").elements.namedItem("gender")
             .value;
+            var dateOfBirth = new Date(year + "/" + month + "/" + date);
+            var weekDay = dateOfBirth.getDay();
