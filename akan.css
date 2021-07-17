@@ -12,6 +12,12 @@ body{
     display: flex;
     padding: 10px;
     justify-content: center;
+    background-image: url(./Assets/coolghana.webp);
+    background-size: cover;
+    color: white;
+}
+#akanNames h2{
+color: black;
 }
 P{
     font-style: italic;
