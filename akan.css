@@ -15,8 +15,18 @@ body{
 }
 #akanNames h2{
 color: black;
+font-size: xx-large;
 }
 P{
     font-style: italic;
     font-weight: 600;
+}
+.female{
+    margin-left: 70px;
+}
+.male{
+    margin-right: 50px;
+}
+#akanNames li{
+    font-style: italic;
 }
